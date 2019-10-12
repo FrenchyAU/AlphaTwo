@@ -1,3 +1,4 @@
-# AlphaTwo
-AlphaTwo Group Assessment Repo
-This REPO is for a RMIT University Group Assessment
+# Welcome
+---
+This is the AlphaTwo dedicated group webpage - Here you will find all relevant information to its members and assignments.
+
